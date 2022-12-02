@@ -1,0 +1,2 @@
+Dataset Link - https://www.kaggle.com/c/fake-news/data?select=train.csv
+Supervised Machine learning model to predict the news is FAKE or REAL using Logistic regression. 
