@@ -1,0 +1,3 @@
+Medical Insurance Cost Prediction ML Model using Random Forest Regressor
+Libraries used - Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+Dataset Link - https://www.kaggle.com/datasets/mirichoi0218/insurance
